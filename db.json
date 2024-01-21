@@ -1,0 +1,19 @@
+{
+  "estudiantes": [
+    {
+      "id": "9ca39165-ed8d-43ed-8b51-0605b5bb5077",
+      "nombre": "Daniela",
+      "edad": "21"
+    },
+    {
+      "id": "b56794b4-8ae6-4e01-a38d-bae5ea41e38f",
+      "nombre": "Carlos",
+      "edad": "12"
+    },
+    {
+      "id": "514bd528-2465-4985-9236-0205e609317e",
+      "nombre": "Tano",
+      "edad": "32"
+    }
+  ]
+}
